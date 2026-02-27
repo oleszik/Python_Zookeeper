@@ -1,0 +1,26 @@
+[
+  {
+    "name": "camel",
+    "text": "\nSwitching on the camera in the camel habitat...\n ___.-''''-.\n/___  @    |\n',,,,.     |         _.'''''''._\n     '     |        /           \\\n     |     \\    _.-'             \\\n     |      '.-'                  '-.\n     |                               ',\n     |                                '',\n      ',,-,                           ':;\n           ',,| ;,,                 ,' ;;\n              ! ; !'',,,',',,,,'!  ;   ;:\n             : ;  ! !       ! ! ;  ;   :;\n             ; ;   ! !      ! !  ; ;   ;,\n            ; ;    ! !     ! !   ; ;\n            ; ;    ! !    ! !     ; ;\n           ;,,      !,!   !,!     ;,;\n           /_I      L_I   L_I     /_I\nLook at that! Our little camel is sunbathing!"
+  },
+  {
+    "name": "lion",
+    "text": "\nSwitching on the camera in the lion habitat...\n                                               ,w.\n                                             ,YWMMw  ,M  ,\n                        _.---.._   __..---._.'MMMMMw,wMWmW,\n                   _.-\"\"        '''           YP\"WMMMMMMMMMb,\n                .-' __.'                   .'     MMMMW^WMMMM;\n    _,        .'.-'\"; `,       /`     .--\"\"      :MMM[==MWMW^;\n ,mM^\"     ,-'.'   /   ;      ;      /   ,       MMMMb_wMW\"  @\\\n,MM:.    .'.-'   .'     ;     `\\    ;     `,     MMMMMMMW `\"=./`-,\nWMMm__,-'.'     /      _.\\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}\n\"^MP__.-'    ,-' _.--\"\"   `-,   ;       \\  ; ;MMMMMMMMMMW^``; __|\n           /   .'            ; ;         )  )`{  \\ `\"^W^`,   \\  :\n          /  .'             /  (       .'  /     Ww._     `.  `\"\n         /  Y,              `,  `-,=,_{   ;      MMMP`\"\"-,  `-._.-,\n        (--, )                `,_ / `) \\/\"\")      ^\"      `-, -;\"\\:\nThe lion is roaring!"
+  },
+  {
+    "name": "deer",
+    "text": "\nSwitching on the camera in the deer habitat...\n   /|       |\\\n`__\\\\       //__'\n   ||      ||\n \\__`\\     |'__/\n   `_\\\\   //_'\n   _.,:---;,._\n   \\_:     :_/\n     |@. .@|\n     |     |\n     ,\\.-./ \\\n     ;;`-'   `---__________-----.-.\n     ;;;                         \\_\\\n     ';;;                         |\n      ;    |                      ;\n       \\   \\     \\        |      /\n        \\_, \\    /        \\     |\\\n          |';|  |,,,,,,,,/ \\    \\ \\_\n          |  |  |           \\   /   |\n          \\  \\  |           |  / \\  |\n           | || |           | |   | |\n           | || |           | |   | |\n           | || |           | |   | |\n           |_||_|           |_|   |_|\n          /_//_/           /_/   /_/\nOur 'Bambi' looks hungry. Let's go to feed it!"
+  },
+  {
+    "name": "goose",
+    "text": "\nSwitching on the camera in the goose habitat...\n\n                                    _\n                                ,-\"\" \"\".\n                              ,'  ____  `.\n                            ,'  ,'    `.  `._\n   (`.         _..--.._   ,'  ,'        \\    \\\n  (`-.\\    .-\"\"        \"\"'   /          (  d _b\n (`._  `-\"\" ,._             (            `-(   \\\n <_  `     (  <`<            \\              `-._\\\n  <`-       (__< <           :\n   (__        (_<_<          ;\n    `------------------------------------------\nThe goose is staring intently at you... Maybe it's time to change the channel?"
+  },
+  {
+    "name": "bat",
+    "text": "\nSwitching on the camera in the bat habitat...\n_________________               _________________\n ~-.              \\  |\\___/|  /              .-~\n     ~-.           \\ / o o \\ /           .-~\n        >           \\\\  W  //           <\n       /             /~---~\\             \\\n      /_            |       |            _\\\n         ~-.        |       |        .-~\n            ;        \\     /        i\n           /___      /\\   /\\      ___\\\n                ~-. /  \\_/  \\ .-~\n                   V         V\nThis bat looks like it's doing fine."
+  },
+  {
+    "name": "rabbit",
+    "text": "\nSwitching on the camera in the rabbit habitat...\n         ,\n        /|      __\n       / |   ,-~ /\n      Y :|  //  /\n      | jj /( .^\n      >-\"~\"-v\"\n     /       Y\n    jo  o    |\n   ( ~T~     j\n    >._-' _./\n   /   \"~\"  |\n  Y     _,  |\n /| ;-\"~ _  l\n/ l/ ,-\"~    \\\n\\//\\/      .- \\\n Y        /    Y\n l       I     !\n ]\\      _\\    /\"\\\n(\" ~----( ~   Y.  )\nIt looks like we will soon have more rabbits!"
+  }
+]
